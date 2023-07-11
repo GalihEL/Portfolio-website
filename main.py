@@ -9,3 +9,5 @@ with col2:
     content = """I am an enthusiastic python developer 
     ready to conquer the world using my programming knowledge and wisdom!"""
     st.info(content)
+st.info("""In this portfolio i have created 20 apps which 5 of them provide a mutualism 
+relating big companies such as google, microsoft, AWS, etc.""")
